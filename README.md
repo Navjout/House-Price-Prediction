@@ -22,23 +22,31 @@ We plotted a graph to see the sales price and categorical values
 ### Task 6 : Change categorical string to representative numbers
 Categorized MSzoning
 
-6.1 : converting MSZoning to numerics
+6.1 : converting MSZoning to numerics - 
 Converted the MSzoning in numeric values and added tranformed price
 
-6.2 Dropping ID, Sales price and transformed price
+6.2 Dropping ID, Sales price and transformed price - 
 We dropped the ID, sales price and transformed price
 
 ### Task 7 : Cross Validation
 Now we will cross validate the data using Ridge and Lasso regression
+
 7.1 : Importing Ridge, Lasso and GridsearchCV
+
 7.2 Lasso Cross validation
-Converted dictionary to dataframe
+
+Converted dictionary to dataframe,
 we find out the mean test score and mean train score to test overfitting
+
 7.3 Plotting to test overfitting
+
 We got train score and test score, no overfitting
+
 7.4 Ridge Cross validation
-coverting dictionary to dataframe
+
+coverting dictionary to dataframe, 
 Converting to float
+
 7.5 Plotting to test overfitting
 We got train score and test score, no overfitting
 
